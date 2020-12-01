@@ -1,0 +1,38 @@
+{
+  "name": "Maarek",
+  "version": "1.0.0",
+  "description": "Demo for Mock-classes",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maareksillamae/mock-bank"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "axios": "^0.21.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "exchange-rates-api": "^1.0.2",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "joi": "^17.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.0",
+    "mongoose": "^5.10.2",
+    "nock": "^13.0.4",
+    "node-fetch": "^2.6.1",
+    "node-jose": "^2.0.0",
+    "nodemon": "^2.0.4",
+    "rand-token": "^1.0.1",
+    "url": "^0.11.0"
+  }
+}
